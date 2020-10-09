@@ -1,0 +1,19 @@
+body, html {
+    font-size: small;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background: #fff;
+}
+a:visited {
+    color: #609;
+}
+a {
+    color: #1a0dab;
+}
+body, td, a, p, .h {
+    font-family: arial, sans-serif;
+}
